@@ -1,11 +1,11 @@
 # Predictive Analytics
 
-Two Python projects from my Bachelor of Business Analytics (course 3030AFE, Predictive Analytics), covering data wrangling, clustering, regression, tree-based models, classification and model interpretation. Each PDF is an export of my Jupyter notebook and shows the original questions followed by my code, outputs and written interpretation.
+Two Python projects from my Bachelor of Business Analytics (course 3030AFE, Predictive Analytics), covering data wrangling, clustering, regression, tree-based models, classification and model interpretation. Each project includes the Jupyter notebook with my code, outputs and written interpretation, plus a PDF export so it can be read without running anything.
 
-| Project | Techniques | File |
-|---|---|---|
-| 1. Firm risk profiles and global health data | Pandas wrangling, K-Means and hierarchical clustering, correlation analysis, data visualisation | [Assignment 1 - Questions and Answers.pdf](./Assignment%201%20-%20Questions%20and%20Answers.pdf) |
-| 2. Retail customer preference modelling | Linear regression, Lasso, random forest, gradient boosting, logistic regression, decision trees, ROC curves, SHAP | [Assignment 2 - Questions and Answers.pdf](./Assignment%202%20-%20Questions%20and%20Answers.pdf) |
+| Project | Techniques | Notebook | PDF |
+|---|---|---|---|
+| 1. Firm risk profiles and global health data | Pandas wrangling, K-Means and hierarchical clustering, correlation analysis, data visualisation | [Assignment 1.ipynb](Assignment%201.ipynb) | [Assignment 1.pdf](Assignment%201.pdf) |
+| 2. Retail customer preference modelling | Linear regression, Lasso, random forest, gradient boosting, logistic regression, decision trees, ROC curves, SHAP | [Assignment 2.ipynb](Assignment%202.ipynb) | [Assignment 2.pdf](Assignment%202.pdf) |
 
 **Tools:** Python, pandas, NumPy, Matplotlib, seaborn, scikit-learn, statsmodels, SHAP, Jupyter Notebook.
 
